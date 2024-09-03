@@ -1,0 +1,10 @@
+.teste {
+  background-color: aqua;
+}
+.customContainer {
+  width: 30%;
+  margin: 50px auto;
+}
+.containerFormEndereco {
+  display: flex;
+}
